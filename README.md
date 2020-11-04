@@ -1,4 +1,4 @@
-<img width="auto" height="400px" src="https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/68893891_2284522561617216_793893849620545536_o.jpg?_nc_cat=104&_nc_sid=e3f864&_nc_ohc=agll2KOwjEUAX9RVk2K&_nc_ht=scontent.fvix2-1.fna&oh=b9aad5101a47125c1ed1769e1585fd29&oe=5F4EA1B6">
+<img width="auto" height="400px" src="https://scontent.fvix2-1.fna.fbcdn.net/v/t1.0-9/c0.81.851.315a/p851x315/68893891_2284522561617216_793893849620545536_o.jpg?_nc_cat=104&ccb=2&_nc_sid=dd9801&_nc_ohc=l3zSryFCYxgAX_5qRuw&_nc_ht=scontent.fvix2-1.fna&tp=27&oh=731105d7207c78a7c5409d32541f4c95&oe=5FC876C1">
 
 
 # Sergio Vago
