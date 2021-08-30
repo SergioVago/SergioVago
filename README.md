@@ -2,7 +2,7 @@
 
 ## Olá pessoal 👋
 Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:, músico 🥁, empreendedor 🖱 (<a href="https://loja.srvix.com.br" target="_blank">Clique aqui e veja minha loja</a>), aspirante a CTO 😎 e maluco 🤪
+Sou um FullStack Developer :computer:, músico 🥁, CTO 😎 e maluco 🤪
 
  💚 &nbsp; Estou trabalhando no **Manda pro Financeiro**
  <br/> :blush: &nbsp; Posso te ajudar com uma boa conversa direta ao ponto :)
