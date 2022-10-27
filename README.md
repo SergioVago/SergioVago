@@ -11,3 +11,15 @@ Sou um FullStack Developer :computer:, músico 🥁, CTO 😎 e maluco 🤪
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-SergioVago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiovago/)](https://www.linkedin.com/in/sergiovago/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-sergio.vago.melo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergio.vago.melo@gmail.com)](mailto:sergio.vago.melo@gmail.com)
+
+<hr />
+
+## :bar_chart: Estatísticas e linguages
+<p>
+  <a href="https://github.com/rdeconti">
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=sergiovago&show_icons=true&theme=omni" alt="sergiovago :: Profile Stats" />
+    <img width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovago&langs_count=6&theme=omni&layout=compact" alt="sergiovago :: TopLangs" />
+ </a>
+</p>
+
+<hr />
