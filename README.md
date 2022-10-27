@@ -16,7 +16,7 @@ Sou um FullStack Developer :computer:, músico 🥁, CTO 😎 e maluco 🤪
 
 ## :bar_chart: Estatísticas e linguages
 <p>
-  <a href="https://github.com/rdeconti">
+  <a href="https://github.com/sergiovago">
     <img width="450px" src="https://github-readme-stats.vercel.app/api?username=sergiovago&show_icons=true&theme=omni" alt="sergiovago :: Profile Stats" />
     <img width="450px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiovago&langs_count=6&theme=omni&layout=compact" alt="sergiovago :: TopLangs" />
  </a>
